@@ -20,7 +20,7 @@ public class Chiken extends Animal implements Edible{
     @Override
     public String sound()
     {
-        return "Cluck Cluck";
+        return "Cluck Cluck Cluck";
     }
 
 }
